@@ -11,9 +11,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(C:\ProyectosJS\kanban\kanban\src\img\fondo.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 p {
